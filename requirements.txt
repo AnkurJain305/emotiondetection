@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+seaborn
+scikit-learn
+neattext
+joblib
+whisper
+torch
+ffmpeg-python
